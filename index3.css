@@ -5,6 +5,11 @@
     background-position:center;
     background-size: cover;
     position: relative;
+    border: 15px solid;
+    border-left-color: orange;
+    border-top-color: white;
+    border-right-color: green;
+    border-bottom: none;
     overflow-x: hidden;
 }
 
@@ -73,8 +78,8 @@
 
 .flag{
     position:absolute;
-    bottom: 200px;
-    right: 470px;
+    bottom: 195px;
+    right: 440px;
     z-index: 3;
 }
 
