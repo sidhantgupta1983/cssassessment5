@@ -5,12 +5,12 @@
     background-position:center;
     background-size: cover;
     position: relative;
-    border: 15px solid;
+    border: 8px solid;
     border-left-color: orange;
     border-top-color: white;
     border-right-color: green;
     border-bottom: none;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 .message1{
